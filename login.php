@@ -12,7 +12,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Hensem Login</title>
+    <title>Hensem sgt Login</title>
     <link rel="stylesheet" href="include/style.css">
 </head>
 <body>
