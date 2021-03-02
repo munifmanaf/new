@@ -12,7 +12,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 <!DOCTYPE html>
 <html>
 <head>
-    <title>MyWeb Login</title>
+    <title>MyWebsss Login</title>
     <link rel="stylesheet" href="include/style.css">
 </head>
 <body>
